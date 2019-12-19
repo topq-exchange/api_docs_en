@@ -10,7 +10,7 @@ The specific rates are as follows:
 
 |User Level|Net assets (equivalent BTC)|30-day trading volume (equivalent BTC)|Maker fee|Taker fee|
 |----|:---:|----:|----:|----:|
-|**Level 1**|<50|<500|0.10%|0.10%|
+|**Level 1**|<50|<500|0.20%|0.20%|
 |**Level 2**|>=80|>=1000|0|0|
 
 
